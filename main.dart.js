@@ -62673,12 +62673,12 @@ A.yq.prototype={
 J(a){var s,r=null,q=t.w,p=A.bO("About Me",A.eX().$3$color$fontSize$fontWeight(B.aH,A.b7(a,r,q).w.a.a<645?24:28,B.x),r),o=t.p
 p=A.dL(A.b([new A.bE(B.kx,p,r),A.bO(u.E,A.eX().$4$color$fontSize$fontWeight$height(B.bU,A.b7(a,r,q).w.a.a<645?12:15,B.cb,1.8),B.fc)],o),B.Q,B.T)
 s=A.km(50)
-return A.dL(A.b([p,new A.bE(B.e9,A.cN(r,A.a9_(A.km(40),A.n5("assets/profile/profile.jpg",B.dS,r,r)),B.t,r,r,new A.cM(r,r,r,s,r,r,B.av),r,300,r,r,r,r,300),r)],o),B.Q,B.T)}}
+return A.dL(A.b([p,new A.bE(B.e9,A.cN(r,A.a9_(A.km(40),A.n5("assets/profile/myprofile.jpg",B.dS,r,r)),B.t,r,r,new A.cM(r,r,r,s,r,r,B.av),r,300,r,r,r,r,300),r)],o),B.Q,B.T)}}
 A.yp.prototype={
 J(a){var s,r=null,q=t.w,p=A.bO("About Me",A.eX().$3$color$fontSize$fontWeight(B.aH,A.b7(a,r,q).w.a.a<645?24:28,B.x),r),o=t.p
 p=A.cN(r,A.dL(A.b([new A.bE(B.kx,p,r),A.bO(u.E,A.eX().$4$color$fontSize$fontWeight$height(B.bU,A.b7(a,r,q).w.a.a<645?12:15,B.cb,1.8),B.aO)],o),B.b8,B.T),B.t,r,r,r,r,400,r,r,r,r,500)
 s=A.km(50)
-return A.cN(r,A.ia(A.b([p,A.cN(r,A.a9_(A.km(40),A.n5("assets/profile/profile.jpg",B.dS,r,r)),B.t,r,r,new A.cM(r,r,r,s,r,r,B.av),r,400,r,r,r,r,400)],o),B.Q,B.eG,B.ab),B.t,r,r,r,r,r,r,new A.aG(20,20,20,20),r,r,r)}}
+return A.cN(r,A.ia(A.b([p,A.cN(r,A.a9_(A.km(40),A.n5("assets/profile/myprofile.jpg",B.dS,r,r)),B.t,r,r,new A.cM(r,r,r,s,r,r,B.av),r,400,r,r,r,r,400)],o),B.Q,B.eG,B.ab),B.t,r,r,r,r,r,r,new A.aG(20,20,20,20),r,r,r)}}
 A.mo.prototype={
 J(a){return new A.bE(B.A_,A.ia(A.b([A.bO(this.c,A.eX().$3$color$fontSize$fontWeight(B.aH,12,B.x),null),A.bO(this.d,A.eX().$3$color$fontSize$fontWeight(B.bU,12,B.x),null)],t.p),B.Q,B.eG,B.ab),null)}}
 A.BB.prototype={
@@ -62694,8 +62694,8 @@ A.zK.prototype={
 J(a){var s=null
 return new A.bE(B.A7,A.ia(A.b([A.a6g(B.AL,B.c9,s),A.o1(s,s,10),A.a64(new A.bE(B.cZ,A.bO(this.c,$.yk(),s),s),1)],t.p),B.Q,B.T,B.ab),s)}}
 A.zL.prototype={
-J(a){var s=null,r="assets/profile/profile.jpg"
-return A.dL(A.b([new A.qv(5,B.bU,s),new A.bE(B.cZ,A.bO("Diploma & Certificate",$.ke(),s),s),new A.mK("Computer Science Foundation Certificate at GUSTO university",r,"",s),new A.mK("Higher Diploma at GUSTO university",r,"pro",s),new A.mK('Basic to Im-terminate Flutter Certificate at Let"sLearn Programming',"assets/cetificate/flutterceti.png","Ceti",s)],t.p),B.b8,B.T)}}
+J(a){var s=null
+return A.dL(A.b([new A.qv(5,B.bU,s),new A.bE(B.cZ,A.bO("Diploma & Certificate",$.ke(),s),s),new A.mK("Computer Science Foundation Certificate at GUSTO university","assets/cetificate/foundationgusto.jpg","",s),new A.mK("Higher Diploma at GUSTO university","assets/profile/profile.jpg","pro",s),new A.mK('Basic to Im-terminate Flutter Certificate at Let"sLearn Programming',"assets/cetificate/flutterceti.png","Ceti",s)],t.p),B.b8,B.T)}}
 A.mK.prototype={
 J(a){var s=null
 return A.kM(s,A.QP(new A.zK(this.c,s),this.e),B.aI,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.O7(this,a),s,s,s)}}
